@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Nikhil Kuchana</h1>
 <h3 align="center">A passionate in learning new things,frontend developer</h3>
