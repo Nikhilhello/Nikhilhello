@@ -110,22 +110,22 @@ I’m a tech enthusiast with a strong interest in software development and web t
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 <table align="center">
   <tr>
     <!-- Project 1 -->
     <td align="center" width="300">
       <!-- Thumbnail -->
-      <!-- <a href="https://github.com/Nikhilhello/E-LearnOverVidya/blob/main/Logo_LOV.png"> -->
-        <img src="https://github.com/Nikhilhello/E-LearnOverVidya/blob/main/Logo_LOV.png" alt="Project 1" width="260" style="border-radius:10px;"/>
-      <!-- </a> -->
-      <br/><br/>
+      <a href="https://github.com/Nikhilhello/E-LearnOverVidya/blob/main/Logo_LOV.png">
+        <img src="https://github.com/Nikhilhello/E-LearnOverVidya/blob/main/Logo_LOV.png" alt="Project 1" width="200" height="250" style="border-radius:10px;"/> 
+      </a>
+      <br/>
       <!-- Title + Icon -->
       <b>📚 E-LearnOverVidya</b>
       <br/>
       <i>Full-stack e-learning platform</i>
-      <br/><br/>
+      <br/> <br>
       <!-- Tech badges -->
       <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" height="28"/>
       <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" height="28"/>
@@ -133,19 +133,19 @@ I’m a tech enthusiast with a strong interest in software development and web t
       <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00FF88" height="28"/>
       <img height="28" src="https://img.shields.io/badge/Angular.js-111111?style=for-the-badge&logo=angularjs&logoColor=E23237"/>
       <img src="https://img.shields.io/badge/java-111111?style=for-the-badge&logo=java&logoColor=00FF88" height="28"/>
-      <br/><br/>
+      <br/><br>
       <!-- Links -->
       <a href="https://github.com/Nikhilhello/E-LearnOverVidya">🔗 View Code</a> • 
       <a href="https://your-live-demo-link.com">🚀 Live Demo</a>
     </td>
-
+<br>
     <!-- Project 2 -->
     <td align="center" width="300">
       <a href="https://github.com/your-username/project-2-repo">
-        <img src="assets/projects/project2.png" alt="Project 2" width="260" style="border-radius:10px;"/>
+        <img src="https://github.com/user-attachments/assets/0b59068f-0a7c-4190-95d8-c6a28d898ee7" alt="Project 2" width="300" height="350" style="border-radius:10px;"/>
       </a>
       <br/><br/>
-      <b>🤖 Project 2 Name</b>
+      <b>🤖 Image Steganography and Encryption Tool</b>
       <br/>
       <i>Short one-line description of the project.</i>
       <br/><br/>
@@ -156,14 +156,14 @@ I’m a tech enthusiast with a strong interest in software development and web t
       <a href="https://github.com/your-username/project-2-repo">🔗 View Code</a> • 
       <a href="https://your-live-demo-link.com">🧪 API / Demo</a>
     </td>
-
+<br>
     <!-- Project 3 -->
     <td align="center" width="300">
       <a href="https://github.com/your-username/project-3-repo">
-        <img src="assets/projects/project3.png" alt="Project 3" width="260" style="border-radius:10px;"/>
+        <img src="https://github.com/user-attachments/assets/92115e27-d85d-4aaa-9983-0b77f190b0e3" alt="Project 3" width="260" style="border-radius:10px;"/>
       </a>
       <br/><br/>
-      <b>📊 Project 3 Name</b>
+      <b>📘 Smart Study Planner</b>
       <br/>
       <i>Short one-line description of the project.</i>
       <br/><br/>
