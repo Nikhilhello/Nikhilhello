@@ -22,12 +22,6 @@ I’m a tech enthusiast with a strong interest in software development and web t
 
 
 
-
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kuchana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:) 
-
 ## 🌐 Socials:
 <center>
 <a href="https://www.linkedin.com/in/nikhil-kuchana">
