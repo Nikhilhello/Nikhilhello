@@ -26,13 +26,14 @@ I’m a tech enthusiast with a strong interest in software development and web t
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kuchana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuchananikhil2004@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikhil-kuchana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:) 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/abcd">
+<center>
+<a href="https://www.linkedin.com/in/nikhil-kuchana">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40"/>
 </a>
-<a href="mailto:abcd@gmail.com">
+<a href="mailto:kuchananikhil2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="40"/>
 </a>
 <a href="https://leetcode.com/your_username">
@@ -42,12 +43,12 @@ I’m a tech enthusiast with a strong interest in software development and web t
   <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" height="100"/>
 </a>
 <a href="https://www.hackerrank.com/your_username">
-  <img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/HackerRank-%2300EA64.svg?logo=HackerRank&logoColor=white" height="80"/>
 </a>
 <a href="https://www.credly.com/users/your_username">
-  <img src="https://img.shields.io/badge/Credly-%23FF6A00.svg?logo=credly&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Credly-%23FF6A00.svg?logo=credly&logoColor=white" height="80"/>
 </a>
-
+</center>
 
 
 # 💻 Tech Stack:
