@@ -142,9 +142,9 @@ I’m a tech enthusiast with a strong interest in software development and web t
     <!-- Project 2 -->
     <td align="center" width="300">
       <a href="https://github.com/your-username/project-2-repo">
-        <img src="https://github.com/user-attachments/assets/0b59068f-0a7c-4190-95d8-c6a28d898ee7" alt="Project 2" width="300" height="350" style="border-radius:10px;"/>
+        <img src="https://github.com/user-attachments/assets/0b59068f-0a7c-4190-95d8-c6a28d898ee7" alt="Project 2" width="260" style="border-radius:10px;"/>
       </a>
-      <br/><br/>
+      <br/><br>
       <b>🤖 Image Steganography and Encryption Tool</b>
       <br/>
       <i>Short one-line description of the project.</i>
