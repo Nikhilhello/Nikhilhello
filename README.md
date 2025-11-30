@@ -21,22 +21,27 @@ I’m a tech enthusiast with a strong interest in software development and web t
 ## <p align="center">🌐 Connect With Me</p>  -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abc">
-    <img height="90" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abc@gmail.com">
-    <img height="90" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
-  </a>
-  <a href="https://leetcode.com/your_username">
-    <img height="90" src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=00FF88"/>
-  </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://nikhilkuchana.netlify.app">
     <img height="90" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FF88"/>
   </a>
-  <a href="https://www.hackerrank.com/your_username">
+  &nbsp;
+  <a href="https://leetcode.com/u/Nikhil_k_0/">
+    <img height="90" src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=00FF88"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nikhil-kuchana/">
+    <img height="90" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:kuchananikhil2004@gmail.com">
+    <img height="90" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/2303a51lb0">
     <img height="90" src="https://img.shields.io/badge/HackerRank-111111?style=for-the-badge&logo=HackerRank&logoColor=00FF88"/>
   </a>
-  <a href="https://www.credly.com/users/your_username">
+  &nbsp;
+  <a href="https://www.credly.com/users/nikhil-kuchana/badges#credly">
     <img height="90" src="https://img.shields.io/badge/Credly-111111?style=for-the-badge&logo=credly&logoColor=00FF88"/>
   </a>
 </p>
@@ -97,6 +102,8 @@ I’m a tech enthusiast with a strong interest in software development and web t
   <img height="70" src="https://img.shields.io/badge/Apache-111111?style=for-the-badge&logo=apache&logoColor=D42029"/>
   <img height="70" src="https://img.shields.io/badge/Apache_Tomcat-111111?style=for-the-badge&logo=apache-tomcat&logoColor=F8DC75"/>
   <img height="70" src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00FF88"/>
+  <img height="70" src="https://img.shields.io/badge/ServiceNow-111111?style=for-the-badge&logo=mysql_&logoColor=00FF88"/>
+  <img height="70" src="https://img.shields.io/badge/ServiceNow CSA-111111?style=for-the-badge&logo=mysq_l&logoColor=00FF88"/>
   <img height="70" src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=00FF88"/>
   <img height="70" src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=00FF88"/>
   <img height="70" src="https://img.shields.io/badge/Plotly-111111?style=for-the-badge&logo=plotly&logoColor=00FF88"/>
@@ -178,10 +185,61 @@ I’m a tech enthusiast with a strong interest in software development and web t
   </tr>
 </table>
 
+---
+
+<center>
+  
+## 🏅 Certifications
+
+<p align="center">
+  🎖️ View all my verified certifications here:<br>
+  <a href="https://www.credly.com/users/nikhil-kuchana/badges#credly">🔗 Credly Profile</a>
+</p>
 
 ---
 
-<br/>
+## 🎯 Career Goals
+
+- 🚀 Become a skilled Full Stack Developer
+- 📈 Build scalable & high-impact applications
+- 🧠 Strengthen DSA + System Design skills
+- 🚀 Aspiring ServiceNow Administrator
+- 🌍 Contribute to open-source projects
+- 🤝 Collaborate on real-world team projects
+- 💼 Land a Software Engineer role in a top tech company
+- 🏆 Participate in Hackathons & coding events
+
+
+
+<!-- <p align="center"> --->
+<!-- Programming Languages ## 🛠️ Tech Stack-->
+<!-- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> -->
+<!-- Web & Frameworks -->
+<!-- <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> -->
+<!-- Databases -->
+<!-- <br> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> --->
+<!-- Tools -->
+<!-- <br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+</p> -->
+
+
+
+<!-- <p align="center">  ## 📊 GitHub Stats
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilhello&show_icons=true&theme=transparent" alt="GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilhello&theme=transparent" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhilhello&layout=compact&theme=transparent" alt="Most Used Languages"/>
+</p> -->
 
 ## <p align="center">📊 GitHub Stats</p>
 
@@ -205,16 +263,44 @@ I’m a tech enthusiast with a strong interest in software development and web t
 
 ---
 
-<br/>
+<!-- <br/>
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Nikhilhello&icon=0&color=0"/>
+</p> -->
+
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">✨ Let’s connect and build something amazing!</p> -->
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <br>
+  <b>Created with ❤️ and a passion for coding!</b>
+</p> -->
+
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="200" />
+  <br>
+  <b>Thanks for scrolling! Have a great day ✨</b>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nikhilhello&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+<!-- <p align="center">
+  <b>"Code. Learn. Build. Repeat."</b> 🧠💻
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,java,python,html,css,js" />
+</p> -->
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-<P> drgfc3tryhcyt5bvy4utb4y</P>
