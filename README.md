@@ -142,7 +142,7 @@ I’m a tech enthusiast with a strong interest in software development and web t
       <br/><br>
       <!-- Links -->
       <a href="https://github.com/Nikhilhello/E-LearnOverVidya">🔗 View Code</a> • 
-      <a href="https://your-live-demo-link.com">🚀 Live Demo</a>
+      <a href="https://learnovervidya.netlify.app/">🚀 Live Demo</a>
     </td>
 <br>
     <!-- Project 2 -->
@@ -161,8 +161,8 @@ I’m a tech enthusiast with a strong interest in software development and web t
       <img src="https://img.shields.io/badge/Cryptography-111111?style=for-the-badge&logo=Cryptography&logoColor=FFFFFF" height="28"/>
       <img src="https://img.shields.io/badge/Bcrypt-111111?style=for-the-badge&logo=Bcrypt&logoColor=00FF88" height="28"/>
       <br/><br/>
-      <a href="https://github.com/your-username/project-2-repo">🔗 View Code</a> • 
-      <a href="https://your-live-demo-link.com">🧪 API / Demo</a>
+      <a href="https://github.com/Nikhilhello/AICT_CS_Internship">🔗 View Code</a> • 
+      <a href="https://steganographytool-nikhil.streamlit.app/">🧪 API / Demo</a>
     </td>
 <br>
     <!-- Project 3 -->
@@ -180,7 +180,8 @@ I’m a tech enthusiast with a strong interest in software development and web t
       <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=JavaScript_&logoColor=00FF88" height="28"/>
       <img src="https://img.shields.io/badge/Web Storage API-111111?style=for-the-badge&logo=WebStorageAPI_&logoColor=00FF88" height="28"/>
       <br/><br/>
-      <a href="https://github.com/your-username/project-3-repo">🔗 View Code</a>
+      <a href="https://github.com/Nikhilhello/AICTE_FWD_Internship">🔗 View Code</a> • 
+      <a href="https://nikhilhello.github.io/AICTE_FWD_Internship/">🚀 Live Demo</a>
     </td>
   </tr>
 </table>
@@ -253,8 +254,6 @@ I’m a tech enthusiast with a strong interest in software development and web t
 
 ---
 
-<br/>
-
 ## <p align="center">🏆 GitHub Trophies</p>
 
 <p align="center">
@@ -264,7 +263,6 @@ I’m a tech enthusiast with a strong interest in software development and web t
 ---
 
 <!-- <br/>
-
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Nikhilhello&icon=0&color=0"/>
 </p> -->
