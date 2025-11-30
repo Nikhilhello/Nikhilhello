@@ -153,7 +153,7 @@ I’m a tech enthusiast with a strong interest in software development and web t
       <br/>
       <b>🛡️ Image Steganography and Encryption Tool</b>
       <br/>
-      <i>Short one-line description of the project.</i>
+      <i>Encrypt it. Hide it. Secure it.</i>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python_&logoColor=00FF88" height="28"/>
       <img src="https://img.shields.io/badge/pillow-111111?style=for-the-badge&logo=pillow&logoColor=FFFFFF" height="28"/>
@@ -173,7 +173,7 @@ I’m a tech enthusiast with a strong interest in software development and web t
       <br/> 
       <b>📘 Smart Study Planner</b>
       <br/>
-      <i>Short one-line description of the project.</i>
+      <i>Organize, track, and manage study tasks efficiently.</i>
       <br/><br/>
       <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=HTML&logoColor=ED8B00" height="28"/>
       <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=CSS_&logoColor=00FF88" height="28"/>
