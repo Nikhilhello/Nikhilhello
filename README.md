@@ -111,28 +111,27 @@ I’m a tech enthusiast with a strong interest in software development and web t
 ---
 
 ## 📌 Featured Projects
-
 <table align="center">
   <tr>
     <!-- Project 1 -->
     <td align="center" width="300">
       <!-- Thumbnail -->
-      <a href="https://github.com/Nikhilhello/E-LearnOverVidya/blob/main/Logo_LOV.png">
-        <img src="https://github.com/Nikhilhello/E-LearnOverVidya/blob/main/Logo_LOV.png" alt="Project 1" width="200" height="250" style="border-radius:10px;"/> 
-      </a>
-      <br/>
+      <!-- <a href="https://github.com/Nikhilhello/E-LearnOverVidya/blob/main/Logo_LOV.png"> 
+         <img src="https://github.com/Nikhilhello/E-LearnOverVidya/blob/main/Logo_LOV.png" alt="Project 1" width="200" height="250" style="border-radius:10px;"/> 
+      </a> -->
+      <br/> 
       <!-- Title + Icon -->
       <b>📚 E-LearnOverVidya</b>
       <br/>
       <i>Full-stack e-learning platform</i>
       <br/> <br>
       <!-- Tech badges -->
-      <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" height="28"/>
-      <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" height="28"/>
-      <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="28"/>
-      <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00FF88" height="28"/>
       <img height="28" src="https://img.shields.io/badge/Angular.js-111111?style=for-the-badge&logo=angularjs&logoColor=E23237"/>
       <img src="https://img.shields.io/badge/java-111111?style=for-the-badge&logo=java&logoColor=00FF88" height="28"/>
+      <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5_&logoColor=E34F26" height="28"/>
+      <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3_&logoColor=1572B6" height="28"/>
+      <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript_&logoColor=F7DF1E" height="28"/>
+      <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql_&logoColor=00FF88" height="28"/>
       <br/><br>
       <!-- Links -->
       <a href="https://github.com/Nikhilhello/E-LearnOverVidya">🔗 View Code</a> • 
@@ -141,17 +140,19 @@ I’m a tech enthusiast with a strong interest in software development and web t
 <br>
     <!-- Project 2 -->
     <td align="center" width="300">
-      <a href="https://github.com/your-username/project-2-repo">
+      <!-- <a href="https://github.com/your-username/project-2-repo">
         <img src="https://github.com/user-attachments/assets/0b59068f-0a7c-4190-95d8-c6a28d898ee7" alt="Project 2" width="260" style="border-radius:10px;"/>
-      </a>
-      <br/><br>
-      <b>🤖 Image Steganography and Encryption Tool</b>
+      </a> -->
+      <br/>
+      <b>🛡️ Image Steganography and Encryption Tool</b>
       <br/>
       <i>Short one-line description of the project.</i>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=00FF88" height="28"/>
-      <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=FFFFFF" height="28"/>
-      <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=00FF88" height="28"/>
+      <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python_&logoColor=00FF88" height="28"/>
+      <img src="https://img.shields.io/badge/pillow-111111?style=for-the-badge&logo=pillow&logoColor=FFFFFF" height="28"/>
+      <img src="https://img.shields.io/badge/Stegano-111111?style=for-the-badge&logo=stegano&logoColor=FFFFFF" height="28"/>
+      <img src="https://img.shields.io/badge/Cryptography-111111?style=for-the-badge&logo=Cryptography&logoColor=FFFFFF" height="28"/>
+      <img src="https://img.shields.io/badge/Bcrypt-111111?style=for-the-badge&logo=Bcrypt&logoColor=00FF88" height="28"/>
       <br/><br/>
       <a href="https://github.com/your-username/project-2-repo">🔗 View Code</a> • 
       <a href="https://your-live-demo-link.com">🧪 API / Demo</a>
@@ -159,17 +160,18 @@ I’m a tech enthusiast with a strong interest in software development and web t
 <br>
     <!-- Project 3 -->
     <td align="center" width="300">
-      <a href="https://github.com/your-username/project-3-repo">
+      <!-- <a href="https://github.com/your-username/project-3-repo">
         <img src="https://github.com/user-attachments/assets/92115e27-d85d-4aaa-9983-0b77f190b0e3" alt="Project 3" width="260" style="border-radius:10px;"/>
-      </a>
-      <br/><br/>
+      </a> -->
+      <br/> 
       <b>📘 Smart Study Planner</b>
       <br/>
       <i>Short one-line description of the project.</i>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" height="28"/>
-      <img src="https://img.shields.io/badge/SpringBoot-111111?style=for-the-badge&logo=springboot&logoColor=00FF88" height="28"/>
-      <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=00FF88" height="28"/>
+      <img src="https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=HTML&logoColor=ED8B00" height="28"/>
+      <img src="https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=CSS_&logoColor=00FF88" height="28"/>
+      <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=JavaScript_&logoColor=00FF88" height="28"/>
+      <img src="https://img.shields.io/badge/Web Storage API-111111?style=for-the-badge&logo=WebStorageAPI_&logoColor=00FF88" height="28"/>
       <br/><br/>
       <a href="https://github.com/your-username/project-3-repo">🔗 View Code</a>
     </td>
