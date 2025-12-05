@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kuchana</h1>
 <h3 align="center">A passionate in learning new things, frontend developer</h3>
 
+<div align="center">
+  <a href="https://github.com/Nikhilhello">
+    <img src="https://komarev.com/ghpvc/?username=Nikhilhello&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  </a>
+</div>
+
 # 💫 About Me:
 I’m a tech enthusiast with a strong interest in software development and web technologies. I’ve worked on several academic projects involving Java, Servlets, and AngularJS, focusing on creating interactive and user-friendly applications.<br><br>Currently exploring opportunities to grow as a developer, contribute to real-world projects, and keep learning every day in this ever-evolving tech field.
 
